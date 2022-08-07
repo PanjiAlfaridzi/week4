@@ -26,10 +26,10 @@ Hobi :<br>
 Pekerjaan :<br>
 <select name="info">				
 <option selected="select">-= Pilih =-</option>		
-<option value="web udinus">Mahasiswa</option>
-<option value="surat kabar">Buruh</option>		
-<option value="teman kerabat">Karyawan</option>
-<option value="browsing internet">Satpam</option>
+<option value="Mahasiswa">Mahasiswa</option>
+<option value="buruh">Buruh</option>		
+<option value="karyawan">Karyawan</option>
+<option value="satpam">Satpam</option>
 </select><br><br>
 
 
