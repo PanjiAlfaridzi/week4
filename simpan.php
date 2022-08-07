@@ -37,15 +37,6 @@
 			<td>Hobi</td>
 			<td>:</td>
 			<td><?php 
-			/*$volly = $_POST['volly'];
-			$basket = $_POST['basket'];
-			$badminton = $_POST['badminton'];
-			$sepakbola = $_POST['sepakbola'];
-			$data = "";
-			if($volly == "volly")
-			{
-				$data = $data + "volly";
-			}*/
 			$opt = $_POST['opt'];
 			for($i = 0;$i < count($opt); $i++)
 			{
